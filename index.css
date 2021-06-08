@@ -25,5 +25,19 @@ video{
     height: 100%;
     width: 100%;
     outline: none;
-    
 }
+
+@media(max-width:600px){
+    
+    h1{
+        width: 100%;
+        font-size: 23px;
+    }
+
+    div{
+        height: 80vh;
+        width: auto;
+        max-width: 1500px;
+    }
+}
+
