@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: #131313;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 1px solid red;
+}
+
+div{
+    margin-top: 27px;
+    height: 80vh;
+    width: auto;
+    background: url('https://i.pinimg.com/736x/f2/d5/a9/f2d5a9bc20293d48141427d01b28f92a.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+video{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    
+}
